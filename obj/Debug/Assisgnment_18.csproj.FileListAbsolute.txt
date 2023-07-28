@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment_18\Assisgnment_18\bin\Debug\Assisgnment_18.exe.config
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment_18\Assisgnment_18\bin\Debug\Assisgnment_18.exe
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment_18\Assisgnment_18\bin\Debug\Assisgnment_18.pdb
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment_18\Assisgnment_18\obj\Debug\Assisgnment_18.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment_18\Assisgnment_18\obj\Debug\Assisgnment_18.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment_18\Assisgnment_18\obj\Debug\Assisgnment_18.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment_18\Assisgnment_18\obj\Debug\Assisgnment_18.exe
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment_18\Assisgnment_18\obj\Debug\Assisgnment_18.pdb
